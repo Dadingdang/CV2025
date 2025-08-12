@@ -48,14 +48,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://berkeley-humanoid.com/static/berkeley_humanoid.pdf'
+url_code: 'https://github.com/HybridRobotics/isaac_berkeley_humanoid'
 url_dataset: ''
 url_poster: ''
 url_project: 'https://berkeley-humanoid.com'
 url_slides: ''
-url_source: ''
-url_video: ''
+url_source: 'https://arxiv.org/abs/2407.21781'
+url_video: 'https://youtu.be/8pR1HE-wMHw'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
