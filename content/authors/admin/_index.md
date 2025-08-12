@@ -112,7 +112,7 @@ skills:
         percent: 100
         icon: lifebuoy
       - name: Cats
-        description: ''
+        description: 'Unfortunately, I have rhinitis'
         percent: 100
         icon: cat
       - name: Photography & Video
