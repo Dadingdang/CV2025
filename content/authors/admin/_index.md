@@ -53,7 +53,7 @@ interests:
   - Legged Robots
 
 education:
-  - area: M.S. in Robotics and Autonomous
+  - area: MPhil. in Robotics and Autonomous
     institution: Hong Kong University of Science and Technology (Guangzhou)
     date_start: 2024-09-01
     date_end: 2026-07-01
