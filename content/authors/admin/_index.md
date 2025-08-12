@@ -109,8 +109,8 @@ skills:
     items:
       - name: Badminton
         description: ''
-        percent: 60
-        icon: racquet
+        percent: 100
+        icon: brands/racquet
       - name: Cats
         description: ''
         percent: 100
