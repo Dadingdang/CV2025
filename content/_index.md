@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Download CV in Chinese
+        url: uploads/CV_HXY.pdf
     design:
       css_class: dark
       background:
