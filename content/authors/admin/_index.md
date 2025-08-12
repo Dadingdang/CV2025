@@ -110,7 +110,7 @@ skills:
       - name: Badminton
         description: ''
         percent: 100
-        icon: assets/media/icons/racquet.svg
+        icon: 'assets/media/icons/racquet.svg'
       - name: Cats
         description: ''
         percent: 100
