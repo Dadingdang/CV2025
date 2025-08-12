@@ -67,7 +67,7 @@ education:
     date_start: 2020-09-01
     date_end: 2024-06-20
     summary: |
-      RoboMaster!
+      Alliance team leader.
 work:
   - position: Undergraduate Researcher
     company_name: UCB Hybrid Robotics (Prof. Koushil Sreenath)
@@ -108,9 +108,9 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Badminton
-        description: ''
+        description: '​​Starting in 2010'
         percent: 100
-        icon: 'assets/media/icons/racquet.svg'
+        icon: lifebuoy
       - name: Cats
         description: ''
         percent: 100
