@@ -5,6 +5,7 @@ external_link: https://github.com/Dadingdang/OpenTpuOmniWheel
 tags:
   - RoboMaster
   - Mechanic
+  - Entrepreneurship
 ---
 
 Affordable and high-performance injection-molded tpu&rubber omni wheel for robots.
