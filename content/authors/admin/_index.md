@@ -58,39 +58,33 @@ education:
     date_start: 2024-09-01
     date_end: 2026-07-01
     summary: |
-      
+      Developing mechanical tructure and motor for legged robot.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'AMDT Lab'
+      url: 'https://amdt.hkust-gz.edu.cn/'
   - area: B.E. in Electronic Engineering
     institution: Nanjing University of Sciencs and Technology
     date_start: 2020-09-01
     date_end: 2024-06-20
     summary: |
-      GPA: 3.1/4.0
+      RoboMaster!
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Undergraduate Researcher
+    company_name: UCB Hybrid Robotics (Prof. Koushil Sreenath)
+    company_url: 'https://hybrid-robotics.berkeley.edu'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-11-13
+    date_end: 2024-07-01
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      Developed Berkeley Humanoid robot.
+  - position: Undergraduate Researcher
+    company_name: SUSTech CLEAR Lab (Prof. Wei Zhang)
+    company_url: 'https://www.wzhanglab.site/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-07-03
+    date_end: 2023-11-13
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Developed a contact & force sensor for quadruped robot.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -113,10 +107,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Badminton
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: racquet
       - name: Cats
         description: ''
         percent: 100
@@ -168,4 +162,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Huang Xuanyu is a graduate student of HKUST(GZ). He has been designing the mechanical part of robot for 5 years. His research interests include mechanical design, circuit design, and robotics. He has led the Alliance, which was a team participating in the RoboMaster competition.
