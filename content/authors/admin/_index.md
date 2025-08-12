@@ -115,8 +115,8 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
+      - name: Photography & Video
+        description: 'Davinci Resolve'
         percent: 100
         icon: camera
 
@@ -131,11 +131,11 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 全国大学生机器人大赛RoboMaster超级对抗赛
+  - title: 全国大学生机器人大赛RoboMaster机甲大师超级对抗赛全国赛二等奖
     url: 
-    date: '2023-11-25'
+    date: '2023'
     awarder: Top32
-    icon: coursera
+    icon: 
     summary: |
 
   - title: Blockchain Fundamentals
