@@ -91,6 +91,7 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+      date_format: 'January 2006'
   # - block: collection
   #   id: talks
   #   content:
