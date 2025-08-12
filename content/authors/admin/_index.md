@@ -110,8 +110,7 @@ skills:
       - name: Badminton
         description: '​​Starting in 2010'
         percent: 100
-        # icon: lifebuoy
-        icon: icons/racquet.svg
+        icon: lifebuoy
       - name: Cats
         description: 'Unfortunately, I have rhinitis'
         percent: 100
