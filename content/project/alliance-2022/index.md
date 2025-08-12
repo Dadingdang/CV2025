@@ -1,6 +1,6 @@
 ---
 title: Alliance 2022
-date: 2022
+date: 2022-07-01
 external_link: https://bbs.robomaster.com/article/9134?source=4
 tags:
   - RoboMaster
