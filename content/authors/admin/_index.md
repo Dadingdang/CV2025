@@ -58,10 +58,10 @@ education:
     date_start: 2024-09-01
     date_end: 2026-07-01
     summary: |
-      Developing mechanical tructure and motor for legged robot.
-    button:
-      text: 'AMDT Lab'
-      url: 'https://amdt.hkust-gz.edu.cn/'
+      Developing mechanical tructure, hardware, software and motor for legged robot.
+    # button:
+    #   text: 'AMDT Lab'
+    #   url: 'https://amdt.hkust-gz.edu.cn/'
   - area: B.E. in Electronic Engineering
     institution: Nanjing University of Sciencs and Technology
     date_start: 2020-09-01
